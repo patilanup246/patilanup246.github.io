@@ -60,15 +60,15 @@
                     <a href="mailto:patilanup246@gmail.com">patilanup246@gmail.com</a>
                 </div>
                 <p class="lead mb-5">
-                    Over the last 6+ years, I have worked extensively in Web Scraping,Python and Dot Net technology.
+                    Over the last 6+ years, I have worked extensively in Web Scraping,Python and Dot Net technology.\n
 
-                    I am creating automated data extraction systems for more than 4 years now. Any security can be bypassed.
+                    I am creating automated data extraction systems for more than 4 years now. Any security can be bypassed.\n
 
-                    I have already scraped millions of records out of dozens of websites. Some of the websites were secured (banning IP address, showing no results, etc.). Proxy support is a must when we are talking about secured web sites. Randomizing them with every request increases chances of not being caught by automated security systems.
+                    I have already scraped millions of records out of dozens of websites. Some of the websites were secured (banning IP address, showing no results, etc.). Proxy support is a must when we are talking about secured web sites. Randomizing them with every request increases chances of not being caught by automated security systems.\n
 
-                    To get the most within the shortest period of time I am running several scrape scripts. It helps me to scrape much faster than most of other scrapers. Running multiple scripts is crucial when we need to get the results as fast as possible.
+                    To get the most within the shortest period of time I am running several scrape scripts. It helps me to scrape much faster than most of other scrapers. Running multiple scripts is crucial when we need to get the results as fast as possible.\n
 
-                    My scrape scripts can look like a human that manually gathers information. This can be achieved by giving false web browser, simulating key presses, making pauses after each scrape (pause duration depends on the scraped amount of information), etc.
+                    My scrape scripts can look like a human that manually gathers information. This can be achieved by giving false web browser, simulating key presses, making pauses after each scrape (pause duration depends on the scraped amount of information), etc.\n
 
                     My scrapings are always made precisely for my clients.
                 </p>
@@ -2088,7 +2088,7 @@
                 <h2 class="mb-5">Client Review on UPwork </h2>
                 <ul class="fa-ul mb-0">
                     <li>
-                        <i class="fa-li fa fa-comments text-warning"></i>
+                        <i class="fa-li fa fa-comments text-primary"></i>
                         He was knowledgeable and easy to work with. I would work with him again, anytime!
 			<span class="fa fa-star text-warning"></span>
 			<span class="fa fa-star text-warning"></span>
@@ -2097,40 +2097,61 @@
 			<span class="fa fa-star text-warning"></span>
                     </li>
                     <li>
-                        <i class="fa-li fa fa-comments text-warning"></i>
+                        <i class="fa-li fa fa-comments text-primary"></i>
                         Anup is super programmer and extra ordinary person.
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
                     </li>
                     <li>
-                        <i class="fa-li fa fa-comments text-warning"></i>                        
+                        <i class="fa-li fa fa-comments text-primary"></i>                        
                         Skilled, nice, meets deadlines and easy to work with Anup.
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
                     </li>
                     <li>
-                       <i class="fa-li fa fa-comments text-warning"></i>                      
+                       <i class="fa-li fa fa-comments text-primary"></i>                      
                        This freelancer committed twice to delivering code and then went completely silent and has never responded since.
+		       <span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
                     </li>
                     <li>
-                        <i class="fa-li fa fa-comments text-warning"></i>                      
+                        <i class="fa-li fa fa-comments text-primary"></i>                      
                         Excellent freelancer. Available anytime of the day if needed. I am immensely satisfied with the delivery. HIGHLY RECOMMENDED!!!
                     </li>
                     <li>
-                        <i class="fa-li fa fa-comments text-warning"></i>                       
-                        Efficient, exactly what I asked, no issues. Friendly to deal with.
-I hope to work with Anup again.
+                        <i class="fa-li fa fa-comments text-primary"></i>                       
+                        Efficient, exactly what I asked, no issues. Friendly to deal with. I hope to work with Anup again.
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
                     </li>
                     <li>
-                        <i class="fa-li fa fa-comments text-warning"></i>                    
-                        Was very easy to contact at all times. Understood the task and executed perfectly. Would definitely use Anup again in the future
+                        <i class="fa-li fa fa-comments text-primary"></i>                    
+                        Was very easy to contact at all times. Understood the task and executed perfectly. Would definitely use Anup again in the future.
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
                     </li>
                 </ul>
             </div>
         </section>
-    </div>
-    <!-- Bootstrap core JavaScript -->
+    </div>   
     <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-    <!-- Custom scripts for this template -->
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>   
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>   
     <script src="js/resume.min.js"></script>
 </body>
 </html>
