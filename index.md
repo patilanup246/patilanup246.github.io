@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -2088,37 +2089,38 @@
                 <h2 class="mb-5">Client Review on UPwork </h2>
                 <ul class="fa-ul mb-0">
                     <li>
-                        <i class="fa-li fa fa-trophy text-warning"></i>
-                        Google Analytics Certified Developer
+                        <i class="fa-li fa fa-comments text-warning"></i>
+                        He was knowledgeable and easy to work with. I would work with him again, anytime!
                     </li>
                     <li>
-                        <i class="fa-li fa fa-trophy text-warning"></i>
-                        Mobile Web Specialist - Google Certification
+                        <i class="fa-li fa fa-comments text-warning"></i>
+                        Anup is super programmer and extra ordinary person.
+                    </li>
+                    <li>
+                        <i class="fa-li fa fa-comments text-warning"></i>
+                        1<sup>st</sup>
+                        Skilled, nice, meets deadlines and easy to work with Anup.
                     </li>
                     <li>
                         <i class="fa-li fa fa-trophy text-warning"></i>
                         1<sup>st</sup>
-                        Place - University of Colorado Boulder - Emerging Tech Competition 2009
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-trophy text-warning"></i>
-                        1<sup>st</sup>
-                        Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
+                       This freelancer committed twice to delivering code and then went completely silent and has never responded since.
                     </li>
                     <li>
                         <i class="fa-li fa fa-trophy text-warning"></i>
                         2<sup>nd</sup>
-                        Place - University of Colorado Boulder - Emerging Tech Competition 2008
+                        Excellent freelancer. Available anytime of the day if needed. I am immensely satisfied with the delivery. HIGHLY RECOMMENDED!!!
                     </li>
                     <li>
                         <i class="fa-li fa fa-trophy text-warning"></i>
                         1<sup>st</sup>
-                        Place - James Buchanan High School - Hackathon 2006
+                        Efficient, exactly what I asked, no issues. Friendly to deal with.
+I hope to work with Anup again.
                     </li>
                     <li>
                         <i class="fa-li fa fa-trophy text-warning"></i>
                         3<sup>rd</sup>
-                        Place - James Buchanan High School - Hackathon 2005
+                        Was very easy to contact at all times. Understood the task and executed perfectly. Would definitely use Anup again in the future
                     </li>
                 </ul>
             </div>
