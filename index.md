@@ -2090,35 +2090,35 @@
                     <li>
                         <i class="fa-li fa fa-comments text-warning"></i>
                         He was knowledgeable and easy to work with. I would work with him again, anytime!
+			<span class="fa-li fa fa-comments text-warning"></span>
+<span class="fa-li fa fa-comments text-warning"></span>
+<span class="fa-li fa fa-comments text-warning"></span>
+<span class="fa-li fa fa-comments text-warning"></span>
+<span class="fa-li fa fa-comments text-warning"></span>
                     </li>
                     <li>
                         <i class="fa-li fa fa-comments text-warning"></i>
                         Anup is super programmer and extra ordinary person.
                     </li>
                     <li>
-                        <i class="fa-li fa fa-comments text-warning"></i>
-                        1<sup>st</sup>
+                        <i class="fa-li fa fa-comments text-warning"></i>                        
                         Skilled, nice, meets deadlines and easy to work with Anup.
                     </li>
                     <li>
-                        <i class="fa-li fa fa-trophy text-warning"></i>
-                        1<sup>st</sup>
+                       <i class="fa-li fa fa-comments text-warning"></i>                      
                        This freelancer committed twice to delivering code and then went completely silent and has never responded since.
                     </li>
                     <li>
-                        <i class="fa-li fa fa-trophy text-warning"></i>
-                        2<sup>nd</sup>
+                        <i class="fa-li fa fa-comments text-warning"></i>                      
                         Excellent freelancer. Available anytime of the day if needed. I am immensely satisfied with the delivery. HIGHLY RECOMMENDED!!!
                     </li>
                     <li>
-                        <i class="fa-li fa fa-trophy text-warning"></i>
-                        1<sup>st</sup>
+                        <i class="fa-li fa fa-comments text-warning"></i>                       
                         Efficient, exactly what I asked, no issues. Friendly to deal with.
 I hope to work with Anup again.
                     </li>
                     <li>
-                        <i class="fa-li fa fa-trophy text-warning"></i>
-                        3<sup>rd</sup>
+                        <i class="fa-li fa fa-comments text-warning"></i>                    
                         Was very easy to contact at all times. Understood the task and executed perfectly. Would definitely use Anup again in the future
                     </li>
                 </ul>
