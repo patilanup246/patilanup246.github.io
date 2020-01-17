@@ -28,22 +28,22 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" sty href="#about">About</a>
+                    <a class="nav-link js-scroll-trigger text-secondary" sty href="#about">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#experience">Data Science</a>
+                    <a class="nav-link js-scroll-trigger text-secondary" href="#experience">Data Science</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#education">Web Development</a>
+                    <a class="nav-link js-scroll-trigger text-secondary" href="#education">Web Development</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+                    <a class="nav-link js-scroll-trigger text-secondary" href="#skills">Skills</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+                    <a class="nav-link js-scroll-trigger text-secondary" href="#interests">Interests</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+                    <a class="nav-link js-scroll-trigger text-secondary" href="#awards">Client Feedback</a>
                 </li>
             </ul>
         </div>
@@ -53,11 +53,11 @@
             <div class="my-auto">
                 <h1 class="mb-0">
                     Anup
-                    <span class="text-primary">Patil</span>
+                    <span class="text-secondary">Patil</span>
                 </h1>
                 <div class="subheading mb-5">
                     Shivar Chowk,Pimple Saudagar,Pune, Maharashtra : 411027
-                    <a href="mailto:patilanup246@gmail.com">patilanup246@gmail.com</a>
+                    <a href="mailto:patilanup246@gmail.com" class="text-secondary">patilanup246@gmail.com</a>
                 </div>
                 <p class="lead mb-5">
                     Over the last 6+ years, I have worked extensively in Web Scraping,Python and Dot Net technology.
@@ -76,7 +76,7 @@
                     <a href="#">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="#">
+                    <a href="https://github.com/patilanup246">
                         <i class="fab fa-github"></i>
                     </a>
                     <a href="#">
