@@ -60,15 +60,15 @@
                     <a href="mailto:patilanup246@gmail.com">patilanup246@gmail.com</a>
                 </div>
                 <p class="lead mb-5">
-                    Over the last 6+ years, I have worked extensively in Web Scraping,Python and Dot Net technology.\n
+                    Over the last 6+ years, I have worked extensively in Web Scraping,Python and Dot Net technology.</br>
 
-                    I am creating automated data extraction systems for more than 4 years now. Any security can be bypassed.\n
+                    I am creating automated data extraction systems for more than 5 years now. Any security can be bypassed.</br>
 
-                    I have already scraped millions of records out of dozens of websites. Some of the websites were secured (banning IP address, showing no results, etc.). Proxy support is a must when we are talking about secured web sites. Randomizing them with every request increases chances of not being caught by automated security systems.\n
+                    I have already scraped millions of records out of dozens of websites. Some of the websites were secured (banning IP address, showing no results, etc.). Proxy support is a must when we are talking about secured web sites. Randomizing them with every request increases chances of not being caught by automated security systems.</br>
 
-                    To get the most within the shortest period of time I am running several scrape scripts. It helps me to scrape much faster than most of other scrapers. Running multiple scripts is crucial when we need to get the results as fast as possible.\n
+                    To get the most within the shortest period of time I am running several scrape scripts. It helps me to scrape much faster than most of other scrapers. Running multiple scripts is crucial when we need to get the results as fast as possible.</br>
 
-                    My scrape scripts can look like a human that manually gathers information. This can be achieved by giving false web browser, simulating key presses, making pauses after each scrape (pause duration depends on the scraped amount of information), etc.\n
+                    My scrape scripts can look like a human that manually gathers information. This can be achieved by giving false web browser, simulating key presses, making pauses after each scrape (pause duration depends on the scraped amount of information), etc.</br>
 
                     My scrapings are always made precisely for my clients.
                 </p>
