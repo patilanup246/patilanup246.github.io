@@ -2090,11 +2090,11 @@
                     <li>
                         <i class="fa-li fa fa-comments text-warning"></i>
                         He was knowledgeable and easy to work with. I would work with him again, anytime!
-			<span class="fa-li fa fa-comments text-warning"></span>
-<span class="fa-li fa fa-comments text-warning"></span>
-<span class="fa-li fa fa-comments text-warning"></span>
-<span class="fa-li fa fa-comments text-warning"></span>
-<span class="fa-li fa fa-comments text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
+			<span class="fa fa-star text-warning"></span>
                     </li>
                     <li>
                         <i class="fa-li fa fa-comments text-warning"></i>
