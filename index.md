@@ -121,9 +121,7 @@
                                 <div class="right ">
                                     <div class="section-list-wrapper">
                                         <div class="list-name">
-                                            We
-
-                                            <br> offer
+                                            We offer
 
                                         </div>
                                         <ul class="section-list">
@@ -980,10 +978,7 @@
                                 <div class="right">
                                     <div class="section-list-wrapper">
                                         <div class="list-name">
-                                            We
-
-                                            <br> offer
-
+                                            We offer
                                         </div>
                                         <ul class="section-list">
                                             <li>Internet service development</li>
@@ -2029,7 +2024,7 @@
             <div class="my-auto">
                 <h2 class="mb-5">Skills</h2>
                 <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-                <ul class="list-inline dev-icons">
+                <ul class="list-inline dev-icons" style="padding-left: 0em !important;">
                     <li class="list-inline-item">
                         <i class="fab fa-python"></i>
                     </li>
@@ -2050,7 +2045,7 @@
                     </li>
                 </ul>
                 <div class="subheading mb-3">Workflow</div>
-                <ul class="fa-ul mb-0">
+                <ul class="fa-ul mb-0" style="padding-left: 0em !important;">
                     <li>
                         <i class="fa-li fa fa-check"></i>
                         Web Scraping, Data Science,Machine Learning
@@ -2086,7 +2081,7 @@
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
             <div class="my-auto">
                 <h2 class="mb-5">Client Review on UPwork </h2>
-                <ul class="fa-ul mb-0">
+                <ul class="fa-ul mb-0" style="padding-left: 0em !important;">
                     <li>
                         <i class="fa-li fa fa-comments text-primary"></i>
                         He was knowledgeable and easy to work with. I would work with him again, anytime!
