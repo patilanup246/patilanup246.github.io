@@ -19,7 +19,18 @@
 	<div id="displayWidget"><div id="twister"><span class="crosscloseif" onclick="movebottom()"><span>Open Covid-19</span> <i class="fa fa-angle-double-down" aria-hidden="true"></i></span><iframe title="open Covid-19" name="crbz_scag_frame" scrolling="no" id="twisstiframe" mce_src="https://feeds.intoday.in/common/widgets/cube/corona/?utm_sources=AT&amp;utm_medium=web" src="https://feeds.intoday.in/common/widgets/cube/corona/?utm_sources=AT&amp;utm_medium=web" width="180" height="135" frameborder="0"></iframe>
 
 <div class="iframe-cover"></div></div>
-<style type="text/css">#twister{ position: fixed;right: 75px; bottom:25px;z-index: 99999; cursor:move; width:90px; height:111px;}
+<style type="text/css">
+	.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+	#twister{ position: fixed;right: 75px; bottom:25px;z-index: 99999; cursor:move; width:90px; height:111px;}
 span.crosscloseif{z-index: 99; background: #fff; color: #000;font-size: 20px;font-weight: bold;padding:5px 3px;position: absolute;top:-20px; right:-55px; line-height:20px; box-shadow: 0px -2px 2px 1px #ccc; border-radius: 3px 3px 0 0; width: 25px; height: 25px; display: block;}
 span.crosscloseif i.fa-angle-double-down{ background:url(https://smedia2.intoday.in//microsites/updownarrow.png); width: 20px;height: 20px;display: block; background-repeat: no-repeat;}#twister.movearrow span.crosscloseif{ width: 160px;}#twister.movearrow span.crosscloseif i.fa-angle-double-down{ background-position: -27px -1px;display: inline-block;}#twister.movearrow{ position: fixed; bottom:-130px; cursor:pointer; }#twister span.crosscloseif span{ display:none; font-size: 12px;line-height: 16px;position: relative;top: -3px;text-transform: uppercase;}#twister.movearrow span.crosscloseif span{display: inline-block;; }#twister iframe#twisstiframe{ position:relative; z-index:-1; }#twister .iframe-cover{ width:180px; height: 111px; position: absolute; z-index:1; top:0px; right:0px; background:transparent; } .fa-angle-double-down:before {content: "";}
 
@@ -2098,66 +2109,41 @@ span.crosscloseif{ top:-17px;}
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
             <div class="my-auto">
                 <h2 class="mb-5">Client Review on UPwork </h2>
-                <ul class="fa-ul mb-0" style="padding-left: 0em !important;">
-                    <li>
-                        <i class="fa-li fa fa-comments text-primary"></i>
-                        He was knowledgeable and easy to work with. I would work with him again, anytime!
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-comments text-primary"></i>
-                        Anup is super programmer and extra ordinary person.
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-comments text-primary"></i>                        
-                        Skilled, nice, meets deadlines and easy to work with Anup.
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-                    </li>
-                    <li>
-                       <i class="fa-li fa fa-comments text-primary"></i>                      
-                       This freelancer committed twice to delivering code and then went completely silent and has never responded since.
-		       <span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-comments text-primary"></i>                      
-                        Excellent freelancer. Available anytime of the day if needed. I am immensely satisfied with the delivery. HIGHLY RECOMMENDED!!!
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-comments text-primary"></i>                       
-                        Efficient, exactly what I asked, no issues. Friendly to deal with. I hope to work with Anup again.
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-                    </li>
-                    <li>
-                        <i class="fa-li fa fa-comments text-primary"></i>                    
-                        Was very easy to contact at all times. Understood the task and executed perfectly. Would definitely use Anup again in the future.
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-			<span class="fa fa-star text-warning"></span>
-                    </li>
-                </ul>
+                
+<header>
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+      <!-- Slide One - Set the background image for this slide in the line below -->
+      <div class="carousel-item active" style="background-image: url('img/1.png">       
+      </div>
+      <!-- Slide Two - Set the background image for this slide in the line below -->
+      <div class="carousel-item" style="background-image: url('img/2.png">       
+      </div>
+      <!-- Slide Three - Set the background image for this slide in the line below -->
+      <div class="carousel-item" style="background-image: url('img/3.png')">        
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+  </div>
+</header>
+
+
+
+		    
+		    
+		    
             </div>
         </section>
     </div>   
